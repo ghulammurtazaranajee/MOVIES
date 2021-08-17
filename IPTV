@@ -246,3 +246,74 @@ http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/257121?checkedby:iptvcat.co
 http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/234344?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky_Sports_NFL_HD
 http://univrse-ip.world:2095/hop/hop2020/632?checkedby:iptvcat.com
+#EXTINF:0,As a Child (720p)
+#EXTVLCOPT:network-caching=1000
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/playlist.m3u8
+#EXTINF:0,ch 21 #EXTVLCOPT:network-caching=1000
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
+#EXTINF:30,ch 23 #EXTVLCOPT:network-caching=1000
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8
+#EXTINF:30,ch 23 #EXTVLCOPT:network-caching=1000
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+#EXTINF:0,Channel 2 News
+#EXTVLCOPT:network-caching=1000
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2200_av-p.m3u8
+#EXTINF:0,Channel 2 News (720p)
+#EXTVLCOPT:network-caching=1000
+https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:0,Channel 24
+#EXTVLCOPT:network-caching=1000
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8
+#EXTINF:0,Channel 9 [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
+#EXTINF:24,Hala TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+#EXTINF:0,Hala TV Israel
+#EXTVLCOPT:network-caching=1000
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+#EXTINF:0,Hidabroot (576p)
+#EXTVLCOPT:network-caching=1000
+https://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
+#EXTINF:60,Hidabroot TV
+#EXTVLCOPT:network-caching=1000
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:49,Israel Pars TV
+#EXTVLCOPT:network-caching=1000
+https://live.pars-israel.com/iptv/stream.m3u8
+#EXTINF:0,Kabbalah for the People (Israel) (504p)
+#EXTVLCOPT:network-caching=1000
+https://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+#EXTINF:0,Kabbalah for the People (Israel) (360p)
+#EXTVLCOPT:network-caching=1000
+https://edge2.uk.kab.tv/rtplive/tv66-heb-medium.stream/playlist.m3u8
+#EXTINF:28,Kabbalah TV Hebrew (360p)
+#EXTVLCOPT:network-caching=1000
+http://edge2.uk.kab.tv/live/tv66-heb-medium/playlist.m3u8
+#EXTINF:30,Kan 11
+#EXTVLCOPT:network-caching=1000
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
+#EXTINF:30,KAN 11 Israel (720p)
+#EXTVLCOPT:network-caching=1000
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/master.m3u8
+#EXTINF:28628,Keshet 12 (720p)
+#EXTVLCOPT:network-caching=1000
+https://iptv--iptv.repl.co/Hebrew/keshet_12
+#EXTINF:30,Knesset Channel (360p)
+#EXTVLCOPT:network-caching=1000
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+#EXTINF:29,Musayof (Israel) (240p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
+#EXTINF:1840,Music 24
+#EXTVLCOPT:network-caching=1000
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:86399,Reshet 13
+#EXTVLCOPT:network-caching=1000
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+#EXTINF:30,Ynet Live (720p)
+#EXTVLCOPT:network-caching=1000
+https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
+
+
