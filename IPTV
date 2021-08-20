@@ -42,9 +42,6 @@ http://firetv.vip:80/live/a0549743275r/rt0549743275/64306.ts
 http://firetv.vip:80/live/a0549743275r/rt0549743275/64307.ts
 #EXTINF:-1,beIN Sport SD 7
 http://firetv.vip:80/live/a0549743275r/rt0549743275/64308.ts
-#EXTINF:0,Channel 2 News (720p)
-#EXTVLCOPT:network-caching=1000
-https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:0,Channel 9 [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
