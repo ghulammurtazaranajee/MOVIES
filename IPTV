@@ -1,47 +1,4 @@
 #EXTM3U
-http://firetv.vip:80/live/a0549743275r/rt0549743275/77048.ts
-#EXTINF:-1,SSC 6 HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/77047.ts
-#EXTINF:-1,SSC 5 HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/77046.ts
-#EXTINF:-1,SSC 4 HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/77045.ts
-#EXTINF:-1,SSC 3 HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/77044.ts
-#EXTINF:-1,SSC 2 HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/77043.ts
-#EXTINF:-1,SSC 1 HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/77042.ts
-#EXTINF:-1,beIN Sport Extra 1 HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/76940.ts
-#EXTINF:-1,beIN Sport Extra 2 HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/76941.ts
-#EXTINF:-1,lo beIN Sport Premium SD1
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64461.ts
-#EXTINF:-1,lo beIN Sport Premium SD2
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64462.ts
-#EXTINF:-1,lo beIN Sport Premium SD3
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64463.ts
-#EXTINF:-1,beIN Sport Premium SD 1
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64299.ts
-#EXTINF:-1,beIN Sport Premium SD 2
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64300.ts
-#EXTINF:-1,beIN Sport Premium SD 3
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64301.ts
-#EXTINF:-1,beIN Sport SD 1
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64302.ts
-#EXTINF:-1,beIN Sport SD 2
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64303.ts
-#EXTINF:-1,beIN Sport SD 3
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64304.ts
-#EXTINF:-1,beIN Sport SD 4
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64305.ts
-#EXTINF:-1,beIN Sport SD 5
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64306.ts
-#EXTINF:-1,beIN Sport SD 6
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64307.ts
-#EXTINF:-1,beIN Sport SD 7
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64308.ts
 #EXTINF:-1,beIN SPORTS Global HD
 http://aumaletv.com:25461/roza/roza/6247
 #EXTINF:-1,AR: beIN Sports Premium 1 Hevc
